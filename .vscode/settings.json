@@ -1,0 +1,11 @@
+{
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.trimAutoWhitespace": true,
+  "[python]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnPaste": false
+  },
+  "python.formatting.provider": "black"
+}
